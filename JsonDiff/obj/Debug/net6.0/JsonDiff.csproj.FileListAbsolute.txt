@@ -1,0 +1,15 @@
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\bin\Debug\net6.0\JsonDiff.exe
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\bin\Debug\net6.0\JsonDiff.deps.json
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\bin\Debug\net6.0\JsonDiff.runtimeconfig.json
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\bin\Debug\net6.0\JsonDiff.dll
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\bin\Debug\net6.0\JsonDiff.pdb
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\JsonDiff.csproj.AssemblyReference.cache
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\JsonDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\JsonDiff.AssemblyInfoInputs.cache
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\JsonDiff.AssemblyInfo.cs
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\JsonDiff.csproj.CoreCompileInputs.cache
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\JsonDiff.dll
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\refint\JsonDiff.dll
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\JsonDiff.pdb
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\JsonDiff.genruntimeconfig.cache
+C:\Users\FurkanSenol\C#_repos\Siliconmade\VisualStudioProjects\JsonDiff\obj\Debug\net6.0\ref\JsonDiff.dll
